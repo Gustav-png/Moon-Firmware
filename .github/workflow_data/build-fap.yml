@@ -1,6 +1,6 @@
 name: Manual FAP Build
 on:
-  workflow_dispatch: # Это добавит ту самую кнопку ручного запуска
+  workflow_dispatch: 
 
 jobs:
   build:
